@@ -107,15 +107,7 @@ export default function Navbar() {
                   </NavLink>
                 ))}
               </div>
-
-              <div className="drawerNote">
-                <div className="pill pill--accent">
-                  Cinematic
-                </div>
-                <div className="pill">
-                  No WordPress branding
-                </div>
-              </div>
+              
             </motion.div>
           </motion.div>
         )}
