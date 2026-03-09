@@ -89,9 +89,7 @@ export default function Footer() {
         {/* RIGHT */}
         <div className="footerRight">
           <div className="footerLinks">
-            <a href="#">Terms</a>
-            <a href="#">Privacy</a>
-            <a href="mailto:contact@invisibleblade.com">Contact</a>
+            <a href="mailto:invisiblebladeproductions@gmail.com">Contact</a>
           </div>
 
           <div className="footerCopy">
