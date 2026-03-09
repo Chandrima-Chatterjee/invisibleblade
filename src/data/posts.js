@@ -1,5 +1,3 @@
-import hero from "../assets/images/invisibleblade.jpg";
-
 export const POSTS = [
   {
     slug: "oliro-kotha-shune",
