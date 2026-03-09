@@ -75,11 +75,10 @@ export default function Navbar() {
           >
             <motion.div
               className="drawer"
-              initial={{ y: -16, opacity: 0, scale: 0.98 }}
-              animate={{ y: 0, opacity: 1, scale: 1 }}
-              exit={{ y: -10, opacity: 0, scale: 0.99 }}
-              transition={{ duration: 0.22, ease: "easeOut" }}
-              onClick={(e) => e.stopPropagation()}
+              initial={{ x: "100%" }}
+              animate={{ x: 0 }}
+              exit={{ x: "100%" }}
+              transition={{ duration: 0.35, ease: "easeInOut" }}
             >
               <div className="drawerTop">
                 <div className="drawerTitle">Menu</div>
