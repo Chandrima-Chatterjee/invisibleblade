@@ -1,0 +1,136 @@
+/* Pinned hero: background stays, content scrolls */
+.heroWrap {
+  position: relative;
+  height: 160vh; /* IMPORTANT: gives scroll room while pinned */
+  width: 100%;
+  background: #07080b;
+}
+
+/* The pinned background layer */
+.heroFixed {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center 30%;
+  background-repeat: no-repeat;
+  z-index: 1;
+  will-change: transform;
+}
+
+/* Overlay & vignette on the pinned background */
+.heroFixed::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(7, 8, 11, 0.94) 0%,
+    rgba(7, 8, 11, 0.68) 42%,
+    rgba(7, 8, 11, 0.35) 72%,
+    rgba(7, 8, 11, 0.15) 100%
+  );
+  pointer-events: none;
+}
+
+.heroFixed::before {
+  content: "";
+  position: absolute;
+  inset: 0; /* IMPORTANT */
+  background: radial-gradient(
+    circle at 60% 40%,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.5) 58%,
+    rgba(0, 0, 0, 0.92) 100%
+  );
+  pointer-events: none;
+}
+
+/* Content layer sits above the background */
+.heroContentContainer {
+  position: absolute; /* IMPORTANT */
+  inset: 0;
+  z-index: 5;
+  height: 100vh; /* content stays within viewport while bg pinned */
+  display: flex;
+  align-items: center;
+}
+
+/* Inner spacing */
+.heroA__inner {
+  padding-top: 74px;
+}
+
+.heroA__topLabel {
+  font-weight: 900;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.78);
+  margin-bottom: 18px;
+}
+
+.heroA__content {
+  max-width: 720px;
+}
+
+/* Title */
+.heroA__title {
+  font-size: clamp(48px, 7vw, 96px);
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  margin: 10px 0 0;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #fff;
+}
+
+.heroA__highlight {
+  color: var(--accent);
+  text-shadow: 0 0 24px rgba(225, 6, 0, 0.35);
+}
+
+/* Subtitle */
+.heroA__sub {
+  margin-top: 20px;
+  max-width: 62ch;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* CTA */
+.heroA__cta {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+/* Center align option */
+.heroA--center .heroA__content {
+  margin: 0 auto;
+  text-align: center;
+}
+.heroA--center .heroA__cta {
+  justify-content: center;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .heroWrap {
+    height: 150vh;
+  }
+  .heroFixed {
+    background-position: center 20%;
+  }
+  .heroA__title {
+    font-size: clamp(36px, 9vw, 52px);
+  }
+  .heroA__sub {
+    font-size: 15px;
+  }
+}
