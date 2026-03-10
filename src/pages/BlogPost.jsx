@@ -2,7 +2,6 @@ import { useMemo } from "react";
 import { useParams, Link } from "react-router-dom";
 import { POSTS } from "../data/posts";
 import Button from "../components/ui/Button";
-import { useEffect } from "react";
 
 
 export default function BlogPost() {
