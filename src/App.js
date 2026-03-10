@@ -1,4 +1,5 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
+import { useEffect } from "react";
 import "./App.css";
 
 import Navbar from "./components/layout/Navbar";
@@ -9,10 +10,23 @@ import About from "./pages/About";
 import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
 
+function ScrollHandler() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+}
+
 export default function App() {
   return (
     <div className="appShell">
+      <ScrollHandler />
+
       <Navbar />
+
       <main className="appMain">
         <Routes>
           <Route path="/" element={<Home />} />
@@ -21,6 +35,7 @@ export default function App() {
           <Route path="/blog/:slug" element={<BlogPost />} />
         </Routes>
       </main>
+
       <Footer />
     </div>
   );

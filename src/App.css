@@ -2,10 +2,9 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: var(--bg);
-  color: var(--text);
 }
 
 .appMain {
   flex: 1;
+  min-height: calc(100vh - 160px);
 }

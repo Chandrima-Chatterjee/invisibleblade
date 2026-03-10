@@ -840,51 +840,165 @@ Dil aaj kal paas rehta nahi`,
   tags: ["Mashup", "Music", "Collaboration"],
   cover: "https://img.youtube.com/vi/mS60nG6bJwo/maxresdefault.jpg",
   video: "mS60nG6bJwo",
-  content: [
+content: [
+`
 
-"This project marks the very first collaboration between Invisible Blade Studio and the incredibly talented Italian artist KEL (Kel Moncado Rizzo). The idea behind the project was simple yet ambitious — to bring together two songs from completely different musical worlds and transform them into one seamless musical experience.",
+<h2>
+<a href="https://youtu.be/mS60nG6bJwo">
+On My Way X Zara Zara | English Hindi Medley | Invisible Blade ft. KEL (Italy)
+</a>
+</h2>
 
-"The mashup blends the international hit 'On My Way' with the beloved Hindi classic 'Zara Zara'. By combining English and Hindi melodies, the track creates a unique emotional balance between modern global pop and nostalgic Bollywood music.",
+<p>
+Somewhere on Earth! Finding new faces & seeking harmony!
+<a style= "#b80000" href="https://invisibleblade.com/">Invisible Blade</a> — An Audio-Visual home production house.
+Visit our YouTube channel and subscribe for more updates. Thanks for supporting us.
+</p>
 
-"What makes this project even more special is the international collaboration behind it. The video was filmed across multiple locations including Italy, Massanjore, Kolkata, and other parts of West Bengal. Each location adds its own visual texture to the story, making the video feel expansive and cinematic.",
+<h2>Behind the Scene Story</h2>
 
-"The vocals are performed by Kel Moncado Rizzo and Chandrima Chatterjee, whose voices complement each other beautifully, creating a musical dialogue between two cultures.",
+<p>
+This was our first worldwide collaboration with Kelly Malcoda (KEL).
+One day I discovered her on social media and we decided to create
+a mashup of two popular songs — <strong>“On My Way”</strong> and <strong>“Zara Zara”</strong>.
+</p>
 
-"Musically, the arrangement was carefully designed to merge the two songs naturally while preserving the emotional identity of both originals. The production also features live instrumental textures, including violin and flute, adding depth to the overall soundscape.",
+<p>
+KEL performed the “On My Way” portion with incredible dedication.
+Her vocals were recorded in Canicatti, Sicily (Italy) by Kevin Moncado.
+We are truly grateful to Kevin for helping make this project possible.
+</p>
 
-"Since its release, the video has grown into the most viewed production on the Invisible Blade channel, reaching more than 19 million views and connecting with listeners around the world.",
+<p>
+The “Zara Zara” portion was recorded at the Invisible Blade Studio
+by Saikat Bhattacharya and sung by Puja Sarkar in Kolkata.
+</p>
 
-"This project stands as a milestone for Invisible Blade Studio — a collaboration that proves how music can cross languages, borders, and cultures while still feeling deeply personal.",
+<p>
+The mashup was filmed across three different locations:
+Malta, Bakkhali Beach (West Bengal), and Massanjore (Jharkhand).
+</p>
 
-"Credits:",
+<h3>MALTA</h3>
 
-"Vocals:",
-"Kel Moncado Rizzo & Chandrima Chatterjee",
+<p>
+Malta is a beautiful island nation in the Mediterranean Sea south of Sicily.
+It consists of three islands — Malta, Gozo and Comino.
+Valletta, its capital, is one of the first planned cities in Europe.
+Malta is famous for its architecture, festivals and diving hotspots.
+</p>
 
-"Music Design, Arrangement, Mixing & Mastering:",
-"Saikat Bhattacharya (Invisible Blade Studio)",
+<img 
+  src="/blog_images/malta.jpg"
+  style="width:100%; max-width:720px; height:420px; object-fit:cover; border-radius:12px; display:block; margin:30px auto;"
+/>
 
-"Violin:",
-"Ayan Banerjee",
+<h3>BAKKHALI</h3>
 
-"Flute:",
-"Sattyaki Pathak",
+<p>
+Bakkhali is a small coastal village in the South 24 Parganas district of West Bengal.
+It has stunning beaches and peaceful natural scenery.
+Nearby attractions include Henry Island, Jambudwip, Sagar Island and Frazerganj.
+</p>
 
-"Directors of Photography:",
-"Saikat Bhattacharya, Francesco Davola, Gianluca Catuara, Flavia Lombardo & Team, Angshuman Mahara, Arnab Sadhu",
+<img 
+  src="/blog_images/bakkhali.jpg"
+  style="width:100%; max-width:720px; height:420px; object-fit:cover; border-radius:12px; display:block; margin:30px auto;"
+/>
 
-"Recording:",
-"Dhrubo Bhattacharjee (Jam 52), Kevin Moncado, Saikat Bhattacharya (Invisible Blade Studio)",
+<h3>MASSANJORE</h3>
 
-"Production Management:",
-"Saikat Bhattacharya",
+<p>
+Massanjore Dam is a hydropower dam built on the Mayurakshi River near Dumka, Jharkhand.
+It stands about 155 feet high and is a popular tourist destination
+for hiking and nature exploration.
+</p>
 
-"Makeup Artist:",
-"Baban Islam",
+<img 
+  src="/blog_images/massanjore.png"
+  style="width:100%; max-width:720px; height:420px; object-fit:cover; border-radius:12px; display:block; margin:30px auto;"
+/>
 
-"Project Director:",
-"Saikat Bhattacharya"
-  ]
+<h2>Extra Shots</h2>
+
+<div class="blog-gallery">
+
+<img src="/blog_images/onmyway1.png" />
+<img src="/blog_images/onmyway2.png" />
+<img src="/blog_images/onmyway3.png" />
+<img src="/blog_images/onmyway4.png" />
+<img src="/blog_images/onmyway5.png" />
+<img src="/blog_images/onmyway6.png" />
+<img src="/blog_images/onmyway7.png" />
+<img src="/blog_images/onmyway8.png" />
+<img src="/blog_images/onmyway9.png" />
+<img src="/blog_images/onmyway10.png" />
+<img src="/blog_images/onmyway11.png" />
+<img src="/blog_images/onmyway12.png" />
+<img src="/blog_images/onmyway13.png" />
+<img src="/blog_images/onmyway14.png" />
+<img src="/blog_images/onmyway15.png" />
+
+
+</div>
+
+
+
+<p>
+I’m extremely grateful to all the musicians who participated in this project.
+Special thanks to Mr. Arnab Chatterjee, founder of Cetra Business Travel.
+My heartfelt gratitude to Papia and Susanta Bhattacharya for their support.
+</p>
+
+<h3>— The Author</h3>
+
+<img src="/ari.PNG" class="author-image" />
+
+<p>
+<strong>Saikat Bhattacharya</strong><br/>
+Founder of Invisible Blade
+</p>
+
+
+<h2>Credits</h2>
+
+<ul>
+<li>Vocals — Kel Moncado Rizzo & Puja Sarkar</li>
+<li>Music Design & Arrangement — Saikat Bhattacharya</li>
+<li>Mixing & Mastering — Invisible Blade Studio</li>
+<li>Editing & Colour Correction — Saikat Bhattacharya</li>
+<li>Violin — Ayan Banerjee</li>
+<li>Flute — Sattyaki Pathak</li>
+<li>DOP — Saikat Bhattacharya, Francesco Davola, Gianluca Catuara, Angshuman Mahara, Arnab Sadhu</li>
+<li>Production Management — Saikat Bhattacharya</li>
+<li>Makeup — Baban Islam</li>
+</ul>
+
+
+<h2>Lyrics</h2>
+
+<p>
+I'm sorry but don't wanna talk<br/>
+I need a moment before I go<br/>
+It's nothing personal<br/>
+I draw the blinds<br/>
+They don't need to see me cry
+</p>
+
+<p>
+No, nobody but me can keep me safe<br/>
+And I'm on my way
+</p>
+
+<p>
+Zara zara bahekta hai, mahekta hai<br/>
+Aaj to mera tan badan, main pyaasi hoon<br/>
+Mujhe bhar le apni baahon mein
+</p>
+
+<h2>Copyright © Invisible Blade Entertainment</h2>
+`
+]
 },
 {
   slug: "barir-pashe-arshi-nagar-lalon-geeti",
@@ -896,45 +1010,173 @@ Dil aaj kal paas rehta nahi`,
   tags: ["Lalon Geeti", "Bengali Folk", "Music"],
   cover: "https://img.youtube.com/vi/uQX3YFOx_do/maxresdefault.jpg",
   video: "uQX3YFOx_do",
-  content: [
+content: [
+`
+<h2>
+<a href="https://youtu.be/uQX3YFOx_do">
+Barir Pashe Arshi Nagar | Where Inner-Self Meets The Higher-Self | by Invisible Blade ft. Saikat
+</a>
+</h2>
 
-"Barir Pashe Arshi Nagar is one of the most beautiful and philosophical songs written by Fakir Lalon Shah, one of the greatest mystic poets of Bengal. Lalon’s music, often referred to as Lalon Geeti, explores the spiritual search for the self and the deeper connection between human existence and the universe.",
+<p>
+Somewhere on Earth! Finding new faces & seeking harmony!
+<a style="color:#b80000;" href="https://invisibleblade.com/">Invisible Blade</a>
+— An Audio-Visual home production house.
+Visit our YouTube channel and subscribe for more updates.
+Thanks for supporting. Stay tuned with us.
+</p>
 
-"The phrase 'Arshi Nagar' metaphorically refers to a mystical place where the inner self meets the higher self. Through simple yet profound poetry, Lalon speaks about introspection, self-realization, and the journey within.",
+<h2>Behind the Scene Story</h2>
 
-"For this project, Invisible Blade Studio presents a heartfelt interpretation of the song performed by Saikat Bandhopadhaya. The arrangement blends traditional folk emotion with a modern studio production approach.",
+<p>
+This is the second song we created in our folk series (#2).
+The song is one of the spiritual creations of Fakir Lalon Sain.
+In this song he explains how the inner-self meets the higher-self
+and describes the philosophy behind it.
+</p>
 
-"The video was filmed in Santiniketan, a place deeply connected with art, culture, and philosophy. The calm atmosphere of Santiniketan perfectly complements the spiritual tone of the song, allowing the music to breathe naturally within its surroundings.",
+<p>
+<img style="padding:0 15px; float:left;" src="/blog_images/arshinagar2.png" width="300" height="185" />
+After visiting many places we finally found the perfect shooting location.
+This time we went to the famous Raipur Rajbari near Bolpur.
+This place is often considered one of the most haunted locations in Birbhum.
+Although there is no confirmed paranormal evidence,
+the deserted environment definitely gives goosebumps.
+</p>
 
-"The musical arrangement includes expressive Esraj textures performed by Shubhayu Sen Majumdar, adding a classical depth that enhances the folk roots of the composition.",
+<h3>History of Raipur Rajbari</h3>
 
-"The entire project was directed, filmed, and produced by Saikat Bhattacharya at Invisible Blade Studio, combining music production, cinematography, editing, and colour grading into a unified visual experience.",
+<p>
+Raipur Rajbari is located about 5-7 km from Bolpur.
+It was built in the year 1770 and is nearly 250 years old.
+Rabindranath Tagore’s family had a close relationship with the
+Raipur zamindar family.
+They purchased land from them for building Visva-Bharati.
+</p>
 
-"This rendition is a tribute to Lalon Shah’s timeless philosophy and the enduring beauty of Bengali folk music.",
+<p>
+<img style="padding:0 15px; float:right;" src="/blog_images/arshinagar1.png" width="300" height="185" />
+The ancestor Lal Chand Singha came from Midnapur
+to establish business with the East India Company.
+Later in 1863 the famous heir Satyendra Prasanna Singha was born.
+He became a prominent lawyer and the first Governor of Bihar and Orissa.
+He was also the first Indian advocate to join the Viceroy’s executive council.
+</p>
 
-"Credits:",
+<p>
+The talukdar of Raipur, Bhuban Mohan Singha,
+gave Maharshi Debendranath Tagore a permanent lease of land.
+He built a guest house there and named it Santiniketan.
+Eventually the entire region became known as Santiniketan.
+</p>
 
-"Vocals:",
-"Saikat Bandhopadhaya",
+<h3>Some Facts About Fakir Lalon Sain</h3>
 
-"Music Design, Arrangement, Cinematography, Editing, Colour Grading, Mixing & Mastering:",
-"Saikat Bhattacharya (Invisible Blade Studio)",
+<p>
+Fakir Lalon Sain was a great philosopher, prolific songwriter,
+and Baul saint.
+He lived from 17 October 1774 to 17 October 1890,
+almost 116 years.
+</p>
 
-"Esraj:",
-"Shubhayu Sen Majumdar",
+<p>
+During his lifetime he faced caste discrimination.
+It is believed he was originally born in a Hindu family
+but later came under the influence of Fakir Shiraj Sain
+and became a spiritual philosopher.
+</p>
 
-"Assistant:",
-"Arnab Sadhu",
+<p>
+His teachings inspired many poets including
+Rabindranath Tagore and Kazi Nazrul Islam.
+He founded the Lalon Akhra in Cheuriya, Bangladesh,
+where he was eventually buried.
+</p>
 
-"Production Management:",
-"Saikat Bhattacharya & Saikat Bandhopadhaya",
+<h2>Extra Shots</h2>
 
-"Recording:",
-"Studio NAAD, Santiniketan",
+<div class="blog-gallery">
 
-"Original Composition:",
-"Fakir Lalon Shah"
-  ]
+
+<img src="/blog_images/arshinagar3.png"/>
+<img src="/blog_images/arshinagar4.png"/>
+<img src="/blog_images/arshinagar5.png"/>
+<img src="/blog_images/arshinagar6.png"/>
+<img src="/blog_images/arshinagar7.png"/>
+<img src="/blog_images/arshinagar8.png"/>
+<img src="/blog_images/arshinagar9.png"/>
+<img src="/blog_images/arshinagar10.png"/>
+
+</div>
+
+
+<p>
+We created many wonderful memories during the shoot
+and witnessed the beauty of nature.
+A special thanks to all musicians involved in the project
+and especially to Mr. Arnab Chatterjee,
+founder of Cetra Business Travel,
+without whom this project would not have been possible.
+</p>
+
+<p>
+Thank you to all viewers and subscribers
+for encouraging us continuously.
+We promise to keep delivering our best work.
+</p>
+
+<h3>— The Author</h3>
+
+<img src="/ari.PNG" class="author-image" />
+
+<p>
+<strong>Saikat Bhattacharya</strong><br/>
+Founder of Invisible Blade
+</p>
+
+
+<h2>Original Song Credits</h2>
+
+<ul>
+<li>Fakir Lalon Sain Ji</li>
+</ul>
+
+<h2>Our Song Credits</h2>
+
+<ul>
+<li>Vocals — Saikat Bandyopadhaya</li>
+<li>Music Design & Arrangement — Saikat Bhattacharya</li>
+<li>DOP — Saikat Bhattacharya</li>
+<li>Editing & Colour Correction — Saikat Bhattacharya</li>
+<li>Mix & Master — Invisible Blade Studio</li>
+<li>Esraj — Shubhayu Sen Majumdar</li>
+<li>Production Management — Saikat Bhattacharya</li>
+<li>Assisted By — Arnab Sadhu</li>
+<li>Recorded at Studio NAAD, Santiniketan</li>
+<li>Light Design — Saikat Bandyopadhaya</li>
+</ul>
+
+
+<h2>Lyrics</h2>
+
+<p>আমি একদিনও না দেখিলাম তারে</p>
+<p>বাড়ির কাছে আরশী নগর সেথা পড়শী বসত করে</p>
+<p>আমি একদিনও না দেখিলাম তারে</p>
+<p>গেরাম বেড়ে অগাধ পানি</p>
+<p>নাই কিনারা নাই তরণী পারে</p>
+<p>বাঞ্ছা করি দেখব তারে কেমনে সেথা যাই রে</p>
+<p>কি বলব পড়শীর কথা</p>
+<p>হস্ত পদ স্কন্ধ মাথা নাই রে</p>
+<p>ক্ষণেক থাকে শূণ্যের উপর</p>
+<p>ক্ষণেক ভাসে নীরে</p>
+<p>পড়শী যদি আমায় ছুঁতো</p>
+<p>যম যাতনা সকল যেতো দূরে</p>
+<p>সে আর লালন একখানে রয়</p>
+<p>তবু লক্ষ যোজন ফাঁক রে</p>
+
+<h2>Copyright © Invisible Blade Entertainment</h2>
+`
+]
 },
 {
   slug: "krishno-preme-pora-deho-lalon-geeti",
@@ -946,43 +1188,181 @@ Dil aaj kal paas rehta nahi`,
   tags: ["Lalon Geeti", "Bengali Folk", "Music"],
   cover: "https://img.youtube.com/vi/rRjKy0ho1v4/hqdefault.jpg",
   video: "rRjKy0ho1v4",
-  content: [
+content: [
+`
+<h2>
+<a href="https://youtu.be/rRjKy0ho1v4">
+Krishno Preme Pora Deho | A tribute to Lalon-Sain ji from Santiniketan | by Saikat N Saikat
+</a>
+</h2>
 
-"Krishno Preme Pora Deho is a beautiful Lalon Geeti written by the legendary Bengali mystic poet Fakir Lalon Sain. His songs explore spiritual philosophy, the search for inner truth, and the deep connection between humanity and the divine.",
+<p>
+Somewhere on Earth! Finding new faces & seeking harmony!
+<a style="color:#b80000" href="https://invisibleblade.com/">Invisible Blade</a>
+— An Audio-Visual home production house.
+Visit our YouTube channel and subscribe for more updates.
+Thanks for supporting us. Stay tuned with us.
+</p>
 
-"Lalon’s music is deeply rooted in Bengali folk traditions. Through simple language and powerful metaphors, his songs speak about devotion, love, and the inner transformation of the human soul.",
+<h2>Behind the Scene Story</h2>
 
-"In this tribute performance, Saikat Bandhopadhaya brings the emotional depth of the composition to life through a heartfelt vocal interpretation. The arrangement combines traditional folk sensibilities with modern studio production.",
+<p>
+This is a humble attempt of the Lalon Geeti
+<strong>"Krishna Preme Pora Deho"</strong>
+performed by Saikat Bandyopadhaya & Saikat Bhattacharya.
+</p>
 
-"The video was filmed in Santiniketan, a place known for its cultural richness and spiritual calm. The natural surroundings and artistic atmosphere of Santiniketan perfectly complement the reflective mood of Lalon’s music.",
+<p>
+This song reflects the incomplete love story of Lord Krishna
+and his beloved Radhika. In this song Radhika expresses her
+immense grief and longing to meet her beloved Krishna.
+Fakir Lalon Sain beautifully describes the agony of losing
+one’s beloved.
+</p>
 
-"The entire project was directed and produced by Saikat Bhattacharya at Invisible Blade Studio, where the music arrangement, sound design, editing, and colour grading were carefully crafted to create a unified visual and musical experience.",
+<p>
+<img style="padding:0 15px; float:left;" src="/blog_images/krisnopreme9.png" />
+</p>
 
-"This rendition is a humble tribute to the timeless legacy of Fakir Lalon Sain and the enduring beauty of Bengali folk music.",
+<p>
+This was the first video of
+<a style="#b80000" href="https://invisibleblade.com/">Invisible Blade</a>
+made with Saikat Bandyopadhyaya and the other musicians.
+It took almost five days to complete the shoot.
+</p>
 
-"Credits:",
+<p>
+We decided to shoot it on the bank of the Kopai River in Bolpur.
+Bolpur is one of the origins of folk music,
+so it felt like the perfect location for this folk project.
+</p>
 
-"Vocals:",
-"Saikat Bandhopadhaya",
+<p>
+It was the middle of autumn and the riverbanks were covered
+with beautiful Kash flowers that stretched endlessly
+toward the horizon.
+</p>
 
-"Music Design, Arrangement, Mixing & Mastering, Editing & Colour Grading:",
-"Saikat Bhattacharya (Invisible Blade Studio)",
+<p>
+There was also an unforgettable night shoot at Kankalitala.
+<img style="padding:0 15px; float:right;" src="/blog_images/krisnopreme10.png"/>
+The calm blue sky, moonlight and the silent landscape
+created a surreal atmosphere that we will never forget.
+</p>
 
-"Directors of Photography:",
-"Arnab Sadhu & Saikat Bhattacharya",
+<h3>Some Facts About Fakir Lalon Sain</h3>
 
-"Production Management:",
-"Saikat Bhattacharya & Saikat Bandhopadhaya",
+<p>
+Fakir Lalon Sain was a great philosopher, songwriter and Baul saint.
+He lived from 17 October 1774 to 17 October 1890,
+almost 116 years.
+</p>
 
-"Recording:",
-"Studio NAAD, Santiniketan",
+<p>
+He faced severe caste discrimination during his lifetime.
+It is believed he was born into a Brahmin family but later
+came into contact with Fakir Shiraj Sain and gradually
+became a philosopher of life.
+</p>
 
-"Light Design:",
-"Saikat Bandhopadhaya",
+<p>
+Lalon inspired many great poets including
+Rabindranath Tagore and Qazi Nazrul Islam.
+His followers spread across West Bengal and Bangladesh.
+He also founded the Lalon Akhrah institute in Cheuriya,
+Bangladesh, where he was eventually buried.
+</p>
 
-"Original Composition:",
-"Fakir Lalon Sain"
-  ]
+<h2>Some Shots</h2>
+
+<div class="blog-gallery">
+
+
+<img src="/blog_images/krisnopreme1.png"/>
+<img src="/blog_images/krisnopreme2.png"/>
+<img src="/blog_images/krisnopreme3.png"/>
+<img src="/blog_images/krisnopreme4.png"/>
+<img src="/blog_images/krisnopreme5.png"/>
+
+</div>
+
+<p>
+We created many beautiful memories during the shoot
+and witnessed the magical beauty of nature.
+</p>
+
+<p>
+A heartfelt thanks to all the musicians who worked on this project,
+and a special thanks to
+<strong>Mr. Arnab Chatterjee</strong>,
+founder of Cetra Business Travel,
+without whom this project would not have been possible.
+</p>
+
+<p>
+Thank you to all viewers and subscribers for encouraging us.
+We promise to always give our best.
+</p>
+
+<h3>— The Author</h3>
+
+<img src="/ari.PNG" class="author-image" />
+
+<p>
+<strong>Saikat Bhattacharya</strong><br/>
+Founder of Invisible Blade
+</p>
+
+
+<h2>Production Credits</h2>
+
+<ul>
+<li>Vocals — Saikat Bandyopadhaya</li>
+<li>Music Design & Arrangement — Saikat Bhattacharya</li>
+<li>DOP — Arnab Sadhu & Saikat Bhattacharya</li>
+<li>Production Management — Saikat Bhattacharya</li>
+<li>Mix & Master — Saikat Bhattacharya (Invisible Blade Studio)</li>
+<li>Recorded at Studio NAAD, Santiniketan</li>
+<li>Editing & Color Correction — Saikat Bhattacharya</li>
+<li>Light Design — Saikat Bandyopadhaya</li>
+</ul>
+
+
+<h2>Our Heartfelt Gratitude</h2>
+
+<p>
+⦿ Nuri<br/>
+⦿ Pritam (Sri-Khol) — Bangladesh<br/>
+⦿ Abdullah-Al-Noman — Bangladesh<br/>
+⦿ Debdutta Mete (Flute)<br/>
+⦿ Premashish Das (Drums)<br/>
+⦿ Aniruddha Das (Guitar)<br/>
+⦿ Saikat Chatterjee<br/>
+⦿ Jadav Debnath<br/>
+⦿ Choton<br/>
+⦿ Sutapa Bandyopadhaya
+</p>
+
+<h2>Lyrics</h2>
+
+<p>কৃষ্ণ প্রেমে পোড়া দেহ কি দিয়ে জুড়াই বলো সখি?</p>
+<p>কি দিয়ে জুড়াই বলো সখি?</p>
+<p>কে বুঝবে অন্তরের ব্যথা কে মোছাবে আঁখি?</p>
+<p>কি দিয়ে জুড়াই বলো সখি?</p>
+<p>যে দেশেতে আছে আমার বন্ধু চাঁদ কালা</p>
+<p>সে দেশেতে যাব নিয়ে ফুলের মালা</p>
+<p>নগর গাঁয়ে ঘুরবো আমি যোগিনী বেশ ধরি</p>
+<p>কি দিয়ে জুড়াই বলো সখি?</p>
+<p>তোমরা যদি দেখে থাকো খবর দিও তারে</p>
+<p>নইলে আমি প্রাণ ত্যেজিব যমুনারই নীড়ে</p>
+<p>কালা আমায় করে গেল অসহায় একাকী</p>
+<p>কি দিয়ে জুড়াই বলো সখি?</p>
+<p>কালাচাঁদ কে হারিয়ে হলাম যোগিনী</p>
+<p>কত দিবা নিশি গেল কেমনে জুড়াই আঁখি?</p>
+<p>লালন বলে যুগল চরণ আমার ভাগ্যে হবে কি?</p>
+<p>কি দিয়ে জুড়াই বলো সখি?</p>
+`
+]
 },
 {
   slug: "crawling-linkin-park-tribute",
@@ -1039,53 +1419,108 @@ Dil aaj kal paas rehta nahi`,
   cover: "https://img.youtube.com/vi/-mwBlsTlFoU/maxresdefault.jpg",
   video: "-mwBlsTlFoU",
   content: [
+`
+<p>Somewhere on Earth! Finding new faces and seeking harmony. Invisible Blade is an audio-visual home production house dedicated to creating music and cinematic experiences. Visit our YouTube channel and subscribe for more updates. Thank you for supporting us and staying tuned with our journey.</p>
 
-"Tujhe Kitna Chahne Lage is one of the most emotional songs from the Bollywood film *Kabir Singh*. Originally sung by Arijit Singh and composed by Mithoon, the song quickly became a favorite among listeners for its intense expression of love and longing.",
+<h2>Behind the Scene Story</h2>
 
-"For this project, Invisible Blade Studio presents a heartfelt cover performed by Tanmoy Bandyopadhyaya, capturing the emotional depth and romantic essence of the original composition.",
+<p>We often wonder what the true limit of love is. Perhaps it cannot be measured at all. With that thought in mind, we decided to create our own version of one of our favorite songs, <strong>Tujhe Kitna Chahne Lage</strong> from the movie Kabir Singh.</p>
 
-"The musical arrangement was designed to keep the simplicity and emotional vulnerability of the song intact while adding subtle instrumental textures. The guitar performance by Saikat Bhattacharya forms the backbone of the arrangement, supporting the vocals with a warm and expressive tone.",
+<p>Share this with your loved ones and dedicate the song to express your priceless feelings.</p>
 
-"The video was filmed in Kolkata and reflects the minimal, intimate style that suits the emotional character of the song. Rather than creating a complex visual narrative, the focus remains on the music and the feeling carried through the performance.",
+<p>This project was special because it was the first video we created with <strong>Tanmoy Bandyopadhyaya</strong>, the vocalist of RTS band from Kolkata. It took almost three to four days to select the perfect locations for the shoot. Eventually we chose the banks of the Ganges River, particularly Prinsep Ghat located beneath the Second Hooghly Bridge. Some parts of the video were also shot in Kolupukur, Kolkata.</p>
 
-"This cover was arranged and produced at Invisible Blade Studio, bringing together music production, recording, cinematography, and post-production into a unified project.",
+<p>We started our journey around 3 AM toward the shooting location. The weather felt perfect for filming, even though the sky was a bit gloomy. Despite that, the atmosphere added a beautiful mood to the visuals.</p>
 
-"The result is a simple yet heartfelt interpretation of a song that speaks about love beyond measurement — a feeling that resonates deeply with anyone who has experienced the intensity of true emotion.",
+<p>We had a wonderful time during the shoot and were fortunate to witness the enchanting moments of the morning along the riverbank.</p>
 
-"Credits:",
+<p>I would like to express my gratitude to <strong>Tanmoy Bandyopadhyaya</strong> and <strong>Angshuman Mahara</strong> for their dedication and support throughout the project. A special thanks also goes to <strong>Mr. Arnab Chatterjee</strong>, the founder of Cetra Business Travel. Without his support, this project would not have been possible.</p>
 
-"Vocals:",
-"Tanmoy Bandyopadhyaya",
+<p>Finally, I want to thank all the viewers and subscribers who continuously encourage us. Your support motivates us to keep creating and sharing our work. We promise to always give our best.</p>
 
-"Guitars:",
-"Saikat Bhattacharya (Invisible Blade Studio)",
+<h2>A Message to Everyone</h2>
 
-"Music Design & Production:",
-"Saikat Bhattacharya (Invisible Blade Studio)",
+<p>While we were shooting along the banks of our holy river Ganga, we sadly noticed heaps of garbage and plastic scattered around the area. Unfortunately this situation is not limited to Prinsep Ghat alone but can be seen across many parts of the city.</p>
 
-"Recorded at:",
-"Kusum Studio",
+<p>I would like to request everyone to please avoid throwing garbage and plastic in public places. Let us protect the beauty of nature and keep our surroundings clean.</p>
 
-"Recording Engineer:",
-"Prem Chotka Karmakar",
+<p>Share this message with your family and friends and help spread awareness about cleanliness.</p>
 
-"Mixed & Mastered by:",
-"Gautam Debnath",
+<p>Stay tuned and enjoy.</p>
 
-"Cinematography:",
-"Angshuman Mahara & Saikat Bhattacharya",
+<p><strong>— Saikat Bhattacharya</strong><br/>
+Founder of Invisible Blade</p>
 
-"Editing & Colour Correction:",
-"Saikat Bhattacharya",
+<h2>Production Credits</h2>
 
-"Original Song:",
-"'Tujhe Kitna Chahne Lage' from the film *Kabir Singh*",
+<p>
+Arranged at Invisible Blade Studio<br/>
+Recorded at Kusum Studio<br/><br/>
 
-"Original Singer:",
-"Arijit Singh",
+Vocals: Tanmoy Bandyopadhyaya<br/>
+Guitars: Saikat Bhattacharya (Invisible Blade Studio)<br/>
+Music Design and Production: Saikat Bhattacharya (Invisible Blade Studio)<br/>
+Recorded by: Prem Chotka Karmakar<br/>
+Mixed and Mastered: Gautam Debnath<br/><br/>
 
-"Composer & Lyrics:",
-"Mithoon"
+Shot by Angshuman Mahara and Saikat Bhattacharya<br/>
+Color Correction and Editing by Saikat Bhattacharya
+</p>
+
+<h2>Original Song Credits</h2>
+
+<p>
+Song: Tujhe Kitna Chahne Lage<br/>
+Singer: Arijit Singh<br/>
+Composer and Arranger: Mithoon<br/>
+Lyrics: Mithoon<br/>
+Music Production: Godswill Mergulhao<br/>
+Drums Programmed: Bobby Shrivastava<br/><br/>
+
+Song recorded at Living Water Music<br/>
+Mixed and Mastered by Eric Pillai at Future Sound of Bombay<br/>
+Mixing Assistant: Michael Edwin Pillai
+</p>
+
+<h2>Lyrics</h2>
+
+<p>
+Dil ka dariya beh hi gaya<br/>
+Ishq ibadat ban hi gaya<br/>
+Khud ko mujhe tu sonp de<br/>
+Meri zaroorat tu ban gaya
+</p>
+
+<p>
+Baat dil ki nazron ne ki<br/>
+Sach keh raha teri kasam<br/>
+Tere bin ab na lenge ik bhi dam<br/>
+Tujhe kitna chahne lage hum
+</p>
+
+<p>
+Tere saath ho jayenge khatam<br/>
+Tujhe kitna chahne lage hum<br/></p>
+
+<p>
+Iss jagah aa gayi chahatein ab meri<br/>
+Chheen loonga tumhe saare duniya se hi<br/>
+Tere ishq pe haan haq mera hi toh hai<br/>
+Keh diya hai ye maine mere Rabb se bhi<br/>
+Jis raaste tu na mile<br/>
+Us pe na ho mere kadam<br/></p>
+
+<p>
+
+Tere bin ab na lenge ek bhi dam<br/>
+Tujhe kitna chahne lage hum<br/>
+Tere saath ho jayenge khatam<br/>
+Tujhe kitna chahne lage hum<br/>
+Tujhe kitna chahne lage hum<br/>
+Tujhe kitna chahne lage hum</p>
+
+`
+
   ]
 },
 {
@@ -1157,40 +1592,91 @@ Dil aaj kal paas rehta nahi`,
   tags: ["Bollywood Mashup", "Music", "Romantic"],
   cover: "https://img.youtube.com/vi/YrWZJJYcE_w/maxresdefault.jpg",
   video: "YrWZJJYcE_w",
-  content: [
+content: [
+`
+<h2>
+<a href="https://youtu.be/YrWZJJYcE_w">
+Love Mashup | Arijit Singh | New Bollywood Love Songs 2019 | Invisible Blade
+</a>
+</h2>
 
-"This Bollywood Love Medley was one of the early musical projects created during the initial days of the Invisible Blade channel. At a time when the studio was still experimenting with different musical ideas, this mashup brought together a collection of romantic Bollywood songs into a single flowing arrangement.",
+<p>
+Somewhere on Earth ! Finding new faces & seeking harmony!
+<a style="color:#b80000" href="https://invisibleblade.com/">Invisible Blade</a>
+— An Audio-Visual home production house.
+Visit our YouTube channel and subscribe for more updates.
+Thanks for supporting. Stay tuned with us.
+</p>
 
-"The project was performed by Bappaditya Subhro, whose vocals carry the emotional tone of the medley while blending multiple songs into one continuous musical experience.",
+<h2>Behind the Scene Story</h2>
 
-"The arrangement focuses on creating a smooth transition between different melodies, allowing listeners to travel through several romantic themes within a single performance.",
+<p>
+We really wonder sometimes, what is the limit of love!
+And we believe it is not possible to measure.
+So here we are… presenting the Love Mashup of Bollywood 2019’s popular romantic hits.
+</p>
 
-"The music was recorded at Studio Acousticaa, while the mixing and mastering were handled by Saikat Bhattacharya at Invisible Blade Studio.",
+<p>
+Share it with your loved ones and dedicate this song to share your priceless feelings!
+</p>
 
-"The video was directed and filmed by Saikat Bhattacharya, capturing a simple performance-driven visual style. Drone shots and additional cinematography by Biswajit Roy helped add visual depth to the final video.",
+<p>
+This was the first video of
+<a style="color:#b80000" href="https://invisibleblade.com/">Invisible Blade</a>
+we made with Bappaditya Subhro.
+It took almost 2–3 weeks to pick the right locations for shooting.
+Finally we decided to shoot the indoor portion at Studio Acousticaa in Kolkata.
+The song was also recorded there.
+The outdoor shoot was at Kariddha and Tilpara in Birbhum.
+</p>
 
-"Although this project was created during the early phase of the channel, it represents an important step in the journey of Invisible Blade — experimenting with mashups, arrangements, and collaborative musical production.",
+<h2>Some Shots</h2>
 
-"Credits:",
+<div class="blog-gallery">
 
-"Vocals & Music Arrangement:",
-"Bappaditya Subhro",
+<img src="/blog_images/lovemashup1.png" />
+<img src="/blog_images/lovemashup2.png" />
+<img src="/blog_images/lovemashup3.png" />
+<img src="/blog_images/lovemashup4.png" />
+<img src="/blog_images/lovemashup5.png" />
+<img src="/blog_images/lovemashup6.png" />
+<img src="/blog_images/lovemashup7.png" />
 
-"Bass Guitar:",
-"Saikat Bhattacharya",
+</div>
 
-"Mixing & Mastering:",
-"Saikat Bhattacharya (Invisible Blade Studio)",
+<p>
+We had a lot of fun there and witnessed the beauty of nature.
+I'm really very grateful to Bappaditya Subhro, Biswajit Roy,
+and a special thanks to Mr. Arnab Chatterjee,
+founder of Cetra Business Travel.
+Without him this project would not have been possible.
+</p>
 
-"Direction & Cinematography:",
-"Saikat Bhattacharya",
+<p>
+Thanks to the audience and subscribers for encouraging us.
+We promise to always give our best!
+</p>
 
-"Drone Shots:",
-"Biswajit Roy",
+<h3>— The Author</h3>
 
-"Video Editing & Colour Correction:",
-"Saikat Bhattacharya"
-  ]
+<img src="/ari.PNG" class="author-image" />
+
+<p><strong>Saikat Bhattacharya</strong><br/>Founder of Invisible Blade</p>
+
+<h2>Production Credits</h2>
+
+<ul>
+<li>Directed by Saikat Bhattacharya</li>
+<li>Music Arrangement & Vocals — Bappaditya Subhro</li>
+<li>Bass Guitar — Saikat Bhattacharya</li>
+<li>Mixing & Mastering — Invisible Blade Studio</li>
+<li>Cinematography — Saikat Bhattacharya</li>
+<li>Drone Controller — Biswajit Roy</li>
+<li>Video Edit & Color Correction — Saikat Bhattacharya</li>
+</ul>
+
+`
+]
 },
 {
   slug: "notun-alor-thikana-short-film",
@@ -1202,49 +1688,141 @@ Dil aaj kal paas rehta nahi`,
   tags: ["Bengali Short Film", "Original Music", "Social Story"],
   cover: "https://img.youtube.com/vi/WG_m8biL68U/maxresdefault.jpg",
   video: "WG_m8biL68U",
-  content: [
+content: [
+`
+<h2>
+<a href="https://youtu.be/WG_m8biL68U">
+Best Bengali Short Film 2019 | Notun Alor Thikan | Invisible Blade | [HD]
+</a>
+</h2>
 
-"'Notun Alor Thikana' holds a special place in the journey of Invisible Blade. It was the very first project released on the channel — a creative beginning that brought together music, storytelling, and a powerful social message.",
+<p>
+Somewhere on Earth! Finding new faces & seeking harmony!
+<a style="color:#b80000;" href="https://invisibleblade.com/">Invisible Blade</a>
+— An Audio-Visual home production house.
+Visit our YouTube channel and subscribe for more updates.
+Thanks for supporting. Stay tuned with us.
+</p>
 
-"The title 'Notun Alor Thikana' translates to 'The Search for a New Light'. The project reflects on one of the darkest realities that still exists within society — gender discrimination.",
+<h2>Behind the Scene Story</h2>
 
-"Although India continues to grow and develop, many individuals still face discrimination based on gender due to outdated social beliefs and conservative mindsets. This short film attempts to question those realities and inspire a vision of a more equal and compassionate society.",
+<p>
+Our Indian society is developing and getting inspired by western countries.
+But what about gender discrimination?
+Our country is still suffering because of old conservative thoughts.
+If we really want our country to take the next big step toward development,
+we must start by removing gender discrimination.
+</p>
 
-"The project combines cinematic storytelling with an original Bengali song, creating a narrative that speaks about freedom, dignity, and the hope for a more democratic future where people of every gender can live without fear or limitation.",
+<p>
+"Notun Alor Thikan" means "The Search for a New Light" —
+towards freedom, love, and a society where every gender can live freely.
+</p>
 
-"For the Invisible Blade team, this project was more than just a video — it was the beginning of a creative journey. The experience of building the story, composing the music, filming the scenes, and bringing everything together remains one of the most memorable moments for the team.",
+<p>
+This is the first original song created by Invisible Blade.
+We shot this video in our hometown Suri.
+The song talks about the social taboo of rape.
+There is nothing wrong with speaking about it loudly and fighting against it.
+This problem keeps rising due to lack of sex education,
+lack of respect for women, and toxic pornography content.
+</p>
 
-"Even today, 'Notun Alor Thikana' stands as a reminder of where the journey started — a project built with passion, purpose, and the belief that art can speak about the realities of society.",
+<h2>Extra Shots</h2>
 
-"Credits:",
+<div class="blog-gallery">
 
-"Direction & Script:",
-"Ipsit Chakraborty",
+<img src="/blog_images/notunalorthikana1.png" />
+<img src="/blog_images/notunalorthikana2.png" />
+<img src="/blog_images/notunalorthikana3.png" />
+<img src="/blog_images/notunalorthikana4.png" />
+<img src="/blog_images/notunalorthikana5.png" />
+<img src="/blog_images/notunalorthikana6.png" />
+<img src="/blog_images/notunalorthikana7.png" />
+<img src="/blog_images/notunalorthikana8.png" />
 
-"Music Production, Sound Design, Mixing & Mastering:",
-"Saikat Bhattacharya (Invisible Blade Studio)",
+</div>
 
-"Editor & Colour Grading:",
-"Saikat Bhattacharya",
+<p>
+If you are a victim too, do not be afraid or ashamed.
+This is not your fault.
+Raise your voice using
+<a href="https://twitter.com/hashtag/metoo">#MeToo</a>
+and seek justice.
+</p>
 
-"Cinematography:",
-"Biswajit Roy (Team Saga of Souls) & Saikat Bhattacharya",
+<h3>— The Author</h3>
 
-"Vocals:",
-"Chandan Mondal",
+<img src="/ari.PNG" class="author-image" />
 
-"Composition:",
-"Chandan Mondal & Saikat Bhattacharya",
+<p>
+<strong>Saikat Bhattacharya</strong><br/>
+Founder of Invisible Blade
+</p>
 
-"Lyrics:",
-"Ipsit Chakraborty & Chandan Mondal",
 
-"Main Cast:",
-"Ananya Pal Bhattacharya, Chandan Mondal, Barun Das",
+<h2>Credits</h2>
 
-"Digital Partner:",
-"Bengal Web Solution"
-  ]
+<ul>
+<li>Direction & Script : Ipsit Chakraborty</li>
+<li>Editor & Colour Grading : Saikat Bhattacharya</li>
+<li>Cinematography : Biswajit Roy & Saikat Bhattacharya</li>
+<li>Vocal : Chandan Mondal</li>
+<li>Music Production & Arranger : Saikat Bhattacharya</li>
+<li>Audio Engineer : Saikat Bhattacharya</li>
+<li>Mixing & Mastering : Saikat Bhattacharya</li>
+<li>Sound Design & Composition : Saikat Bhattacharya</li>
+<li>Lyrics : Ipsit Chakraborty & Chandan Mondal</li>
+</ul>
+
+<h3>Main Cast</h3>
+
+<ul>
+<li>Ananya Pal Bhattacharya</li>
+<li>Chandan Mondal</li>
+<li>Barun Das</li>
+</ul>
+
+<h3>Other Cast</h3>
+
+<ul>
+<li>Mahuya Das</li>
+<li>Adrija Sarkar</li>
+<li>Koyel Das</li>
+<li>Deborupa Sadhu</li>
+<li>Parnasree Chowdhury</li>
+<li>Priyodarshini Sadhu</li>
+<li>Aparajita Ghosh</li>
+<li>Adrita Bose</li>
+<li>Barshangi Chatterjee</li>
+<li>Koyel Chandra</li>
+<li>Ila Mitra</li>
+<li>Sangram Banerjee</li>
+<li>Imran Sk</li>
+</ul>
+
+
+<h2>Lyrics</h2>
+
+<p>Koto raat geche sore ami klanto voboghure</p>
+<p>Sopnera gumre more ekla sunno ghore</p>
+<p>Amar joto betha chara e simana</p>
+<p>Notun poth hajar motamot notun bahana</p>
+<p>Khuje na pai haatre berai Notun Alor Thikana</p>
+<p>Dine dine nivche alo, andhar kache ase</p>
+<p>Je sukh muthote chai, se palai porobase</p>
+<p>Domka hawa vengeche paar sopne ra geche pure</p>
+<p>Bisorjoner bajna suni sara sorir jure</p>
+<p>Notun surjo uthuk, notun sopno buke</p>
+<p>Notun hatar poth hridoye enke</p>
+<p>Notun udbodhoner utsobe uthi mete</p>
+<p>Ki bollo ke ki vablo ki ese jai tate?</p>
+<p>Ki ese jai tate?</p>
+<p>Ki ese jai tate?</p>
+
+<h2>Copyright © Invisible Blade Entertainment</h2>
+`
+]
 },
 
 

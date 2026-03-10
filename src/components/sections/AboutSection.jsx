@@ -1,5 +1,4 @@
 import "./AboutSection.css";
-import ariImg from "../../assets/images/ari.PNG";
 import SectionTitle from "../ui/SectionTitle";
 
 import {
@@ -28,7 +27,7 @@ export default function AboutSection() {
           {/* IMAGE */}
           <div className="aboutSection__imageWrap">
             <img
-              src={ariImg}
+              src="/ari.PNG"
               alt="Saikat Bhattacharya"
               className="aboutSection__image"
             />
@@ -63,6 +62,7 @@ export default function AboutSection() {
               <div className="stat">20.9M+ Views</div>
             </div>
 
+<br/>
             <div className="aboutSection__socials">
               <a href="https://facebook.com/InvisibleBladeOfficial" target="_blank" rel="noreferrer">
                 <FaFacebookF />

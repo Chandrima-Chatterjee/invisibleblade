@@ -2,6 +2,8 @@ import { useMemo } from "react";
 import { useParams, Link } from "react-router-dom";
 import { POSTS } from "../data/posts";
 import Button from "../components/ui/Button";
+import { useEffect } from "react";
+
 
 export default function BlogPost() {
   const { slug } = useParams();
@@ -28,12 +30,12 @@ export default function BlogPost() {
 
     <div className="blogHeroText">
 
-      <div className="blogMeta">
-        {post.tags.map((t) => (
-          <span key={t} className="pill">{t}</span>
-        ))}
-        <span className="pill pill--accent">{post.readTime}</span>
-      </div>
+      <div className="blogMeta tagRow">
+      {post.tags.map((t) => (
+        <span key={t} className="pill">{t}</span>
+      ))}
+      <span className="pill pill--accent">{post.readTime}</span>
+    </div>
 
       <h1 className="blogTitle">{post.title}</h1>
 
@@ -53,7 +55,10 @@ export default function BlogPost() {
         <div className="container blogContent">
 
           {post.content.map((para, idx) => (
-            <p key={idx}>{para}</p>
+            <div
+              key={idx}
+              dangerouslySetInnerHTML={{ __html: para }}
+            />
           ))}
 
           <blockquote className="blogQuote">
@@ -67,6 +72,8 @@ export default function BlogPost() {
                 src={`https://www.youtube.com/embed/${post.video}`}
                 title={post.title}
                 frameBorder="0"
+                tabIndex="-1"
+                loading="lazy"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
               />

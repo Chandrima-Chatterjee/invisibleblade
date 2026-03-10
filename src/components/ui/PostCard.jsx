@@ -3,7 +3,7 @@ import "./PostCard.css";
 
 export default function PostCard({ post }) {
   return (
-    <Link className="postCard" to={`/blog/${post.slug}`}>
+    <Link className="postCard" to={`/blog/${post.slug}`} onClick={() => window.scrollTo(0, 0)}>
       <div className="postCard__media">
         <img src={post.cover} alt={post.title} />
         <div className="postCard__shine" />
