@@ -22,20 +22,13 @@ export default function Home() {
           kicker="Invisible Blade Studio"
           title="Crafting Sound"
           highlight="& Stories"
-          subtitle="Music production, cinematic visuals, and a blog that documents the journey — clean, premium, and intentional."
+          subtitle="The official website of Invisible Blade Studio — a creative production studio focused on music, cinematic visuals, and storytelling."
           primaryCta={{ label: "Read the blog", to: "/blog" }}
           secondaryCta={{ label: "About the studio", to: "/about" }}
           showScroll
           align="left"
         />
 
-        {/* Hidden SEO intro paragraph */}
-        <p className="srOnly">
-          Invisible Blade Studio is a music production and cinematic storytelling studio
-          founded by Saikat Bhattacharya. The studio produces Rabindra Sangeet covers,
-          Bollywood arrangements, short films, mashups, and musical collaborations
-          filmed across India and internationally.
-        </p>
       </header>
 
       {/* ================= ABOUT SECTION (H2) ================= */}

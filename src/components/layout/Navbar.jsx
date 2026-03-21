@@ -3,7 +3,6 @@ import { NavLink, useLocation } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import "./Navbar.css";
 
-import logo from "../../assets/images/invisibleblade.jpg";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -32,7 +31,7 @@ export default function Navbar() {
     <header className="navWrap">
       <div className="container navInner">
         <NavLink to="/" className="brand">
-          <img className="brandLogo" src={logo} alt="Invisible Blade" />
+          <img className="brandLogo" src="/invisibleblade.jpg" alt="Invisible Blade" />
           <div className="brandText">
             <div className="brandName">Invisible Blade</div>
             <div className="brandSub">Studio • Music • Stories</div>

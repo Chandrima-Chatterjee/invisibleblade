@@ -36,10 +36,22 @@ export default function AboutSection() {
           {/* CONTENT */}
           <div className="aboutSection__content">
 
+            <p className="aboutSection__intro">
+    <strong>Invisible Blade</strong> is a creative brand and production studio founded by Saikat Bhattacharya, known for music, cinematic storytelling, and global collaborations.
+  </p>
+
             <h2 className="aboutSection__headline">
               Invisible Blade is the creative vision of{" "}
               <span>Saikat Bhattacharya</span>
             </h2>
+
+            <p className="aboutSection__intro">
+              Invisible Blade Studio is a creative production studio specializing in music production, cinematic visuals, and storytelling. Founded by <strong>Saikat Bhattacharya</strong>, the studio blends Rabindra Sangeet, Bollywood arrangements, and modern sound design into a unique creative identity.
+            </p>
+
+            <p className="aboutSection__intro">
+              Beyond production, the platform documents the journey — sharing insights, behind-the-scenes moments, and the evolution of music and film projects.
+            </p>
 
             <p>
               Somewhere on Earth — discovering new faces and seeking harmony —

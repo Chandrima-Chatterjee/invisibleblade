@@ -19,7 +19,10 @@ export default function Footer() {
         <div className="footerLeft">
           <div className="footerBrand">Invisible Blade</div>
           <div className="footerMuted">
-            Cinematic music • Visual storytelling • Global audience
+            Invisible Blade Studio is a creative production studio specializing in music production, cinematic video content, and storytelling.
+          </div>
+          <div className="footerMeta">
+            Founded by Saikat Bhattacharya
           </div>
         </div>
 
@@ -90,6 +93,9 @@ export default function Footer() {
         <div className="footerRight">
           <div className="footerLinks">
             <a href="mailto:invisiblebladeproductions@gmail.com">Contact</a>
+            <a href="/about">About</a>
+            <a href="/privacy-policy">Privacy Policy</a>
+            <a href="/terms">Terms</a>
           </div>
 
           <div className="footerCopy">
