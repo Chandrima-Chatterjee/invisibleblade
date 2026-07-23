@@ -23,6 +23,10 @@
   --small: 13px;
 }
 
+html {
+  overflow-anchor: none;
+}
+
 * { box-sizing: border-box; }
 html, body { height: 100%; }
 body {
@@ -124,9 +128,7 @@ img { max-width: 100%; display: block; }
 html, body {
   overflow-x: hidden;
 }
-html {
-  scroll-behavior: smooth;
-}
+
 
 /* ============================= */
 /* EPISODE HORIZONTAL SLIDER */

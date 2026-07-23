@@ -11,21 +11,13 @@ import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Terms from "./pages/Terms";
+import ScrollToTop from "./components/ScrollToTop";
 
-function ScrollHandler() {
-  const { pathname } = useLocation();
-
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, [pathname]);
-
-  return null;
-}
 
 export default function App() {
   return (
     <div className="appShell">
-      <ScrollHandler />
+      <ScrollToTop />
 
       <Navbar />
 

@@ -71,7 +71,6 @@ export default function BlogPost() {
                 src={`https://www.youtube.com/embed/${post.video}`}
                 title={post.title}
                 frameBorder="0"
-                tabIndex="-1"
                 loading="lazy"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
