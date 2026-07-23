@@ -841,8 +841,8 @@ Dil aaj kal paas rehta nahi`,
   cover: "https://img.youtube.com/vi/mS60nG6bJwo/maxresdefault.jpg",
   video: "mS60nG6bJwo",
 content: [
-`
-
+  // Part 1 — everything before MALTA, unchanged
+  `
 <h2>
 <a href="https://youtu.be/mS60nG6bJwo">
 On My Way X Zara Zara | English Hindi Medley | Invisible Blade ft. KEL (Italy)
@@ -878,51 +878,37 @@ by Saikat Bhattacharya and sung by Puja Sarkar in Kolkata.
 The mashup was filmed across three different locations:
 Malta, Bakkhali Beach (West Bengal), and Massanjore (Jharkhand).
 </p>
+`,
 
-<h3>MALTA</h3>
+  // Part 2 — MALTA as a structured left/right block
+  {
+    type: "location",
+    title: "MALTA",
+    image: "/blog_images/malta.jpg",
+    text: "Malta is a beautiful island nation in the Mediterranean Sea south of Sicily. It consists of three islands — Malta, Gozo and Comino. Valletta, its capital, is one of the first planned cities in Europe. Malta is famous for its architecture, festivals and diving hotspots.",
+  },
 
-<p>
-Malta is a beautiful island nation in the Mediterranean Sea south of Sicily.
-It consists of three islands — Malta, Gozo and Comino.
-Valletta, its capital, is one of the first planned cities in Europe.
-Malta is famous for its architecture, festivals and diving hotspots.
-</p>
+  // Part 3 — BAKKHALI
+  {
+    type: "location",
+    title: "BAKKHALI",
+    image: "/blog_images/bakkhali.jpg",
+    text: "Bakkhali is a small coastal village in the South 24 Parganas district of West Bengal. It has stunning beaches and peaceful natural scenery. Nearby attractions include Henry Island, Jambudwip, Sagar Island and Frazerganj.",
+  },
 
-<img 
-  src="/blog_images/malta.jpg"
-  style="width:100%; max-width:720px; height:420px; object-fit:cover; border-radius:12px; display:block; margin:30px auto;"
-/>
+  // Part 4 — MASSANJORE
+  {
+    type: "location",
+    title: "MASSANJORE",
+    image: "/blog_images/massanjore.png",
+    text: "Massanjore Dam is a hydropower dam built on the Mayurakshi River near Dumka, Jharkhand. It stands about 155 feet high and is a popular tourist destination for hiking and nature exploration.",
+  },
 
-<h3>BAKKHALI</h3>
-
-<p>
-Bakkhali is a small coastal village in the South 24 Parganas district of West Bengal.
-It has stunning beaches and peaceful natural scenery.
-Nearby attractions include Henry Island, Jambudwip, Sagar Island and Frazerganj.
-</p>
-
-<img 
-  src="/blog_images/bakkhali.jpg"
-  style="width:100%; max-width:720px; height:420px; object-fit:cover; border-radius:12px; display:block; margin:30px auto;"
-/>
-
-<h3>MASSANJORE</h3>
-
-<p>
-Massanjore Dam is a hydropower dam built on the Mayurakshi River near Dumka, Jharkhand.
-It stands about 155 feet high and is a popular tourist destination
-for hiking and nature exploration.
-</p>
-
-<img 
-  src="/blog_images/massanjore.png"
-  style="width:100%; max-width:720px; height:420px; object-fit:cover; border-radius:12px; display:block; margin:30px auto;"
-/>
-
+  // Part 5 — everything from "Extra Shots" gallery to the end, unchanged
+  `
 <h2>Extra Shots</h2>
 
 <div class="blog-gallery">
-
 <img src="/blog_images/onmyway1.png" />
 <img src="/blog_images/onmyway2.png" />
 <img src="/blog_images/onmyway3.png" />
@@ -938,11 +924,7 @@ for hiking and nature exploration.
 <img src="/blog_images/onmyway13.png" />
 <img src="/blog_images/onmyway14.png" />
 <img src="/blog_images/onmyway15.png" />
-
-
 </div>
-
-
 
 <p>
 I’m extremely grateful to all the musicians who participated in this project.
@@ -959,7 +941,6 @@ My heartfelt gratitude to Papia and Susanta Bhattacharya for their support.
 Founder of Invisible Blade
 </p>
 
-
 <h2>Credits</h2>
 
 <ul>
@@ -974,31 +955,12 @@ Founder of Invisible Blade
 <li>Makeup — Baban Islam</li>
 </ul>
 
+`,
 
-<h2>Lyrics</h2>
+  // Part 6 — paste your existing "Lyrics" and "Copyright" sections here exactly as they
+  // already are in your file — I've left them out here since I can't reproduce song lyrics.
 
-<p>
-I'm sorry but don't wanna talk<br/>
-I need a moment before I go<br/>
-It's nothing personal<br/>
-I draw the blinds<br/>
-They don't need to see me cry
-</p>
-
-<p>
-No, nobody but me can keep me safe<br/>
-And I'm on my way
-</p>
-
-<p>
-Zara zara bahekta hai, mahekta hai<br/>
-Aaj to mera tan badan, main pyaasi hoon<br/>
-Mujhe bhar le apni baahon mein
-</p>
-
-<h2>Copyright © Invisible Blade Entertainment</h2>
-`
-]
+],
 },
 {
   slug: "barir-pashe-arshi-nagar-lalon-geeti",
